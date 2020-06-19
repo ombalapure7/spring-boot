@@ -1,0 +1,2 @@
+1. import as maven project 
+2. to run the app -- click on the main file and run as "Java Application"
